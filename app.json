@@ -7,7 +7,7 @@
       "automation"
     ],
     "website": "https://n8n.io",
-    "repository": "https://github.com/n8n-io/n8n-heroku",
+    "repository": "https://github.com/shazher-n/n9nherokus",
     "logo": "https://raw.githubusercontent.com/n8n-io/n8n-heroku/main/n8n_logo.png",
     "success_url": "/",
     "stack": "container",
@@ -33,7 +33,7 @@
       {
         "plan": "heroku-postgresql",
         "options": {
-          "version": "14"
+          "version": "15"
         }
       },
       {
